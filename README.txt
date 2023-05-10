@@ -1,4 +1,5 @@
 paper: https://elifesciences.org/articles/81279
+faustine [d.o.t] ginoux [a.t] icm-institute [d.o.t] org
 
 For medial motor-correlated neurons of example plane:
 background: mean background 

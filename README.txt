@@ -1,3 +1,5 @@
+paper: https://elifesciences.org/articles/81279
+
 For medial motor-correlated neurons of example plane:
 background: mean background 
 cell_centers: position of neuron centers on background [x, y]
